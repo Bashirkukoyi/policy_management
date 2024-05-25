@@ -1,0 +1,36 @@
+# Policy Management System
+
+## Overview
+The Policy Management System is a simple, yet powerful tool designed to help insurance companies manage their policyholders, products, and payments efficiently. This system allows policy managers to perform various tasks such as registering new members, suspending or reactivating policyholders, processing payments, sending payment reminders, and managing policy products.
+
+## Features
+- **Policyholder Management:**
+  - Register new policyholders.
+  - Suspend and reactivate existing policyholders.
+  - Display policyholder details including their payment history.
+
+- **Product Management:**
+  - Create new insurance products.
+  - Update existing products.
+  - Remove or suspend products.
+
+- **Payment Management:**
+  - Process payments for policyholders.
+  - Send payment reminders.
+  - Apply penalties for late payments.
+
+## Directory Structure
+policy_management/
+├── policyholder.py
+├── product.py
+├── payment.py
+├── main.py
+├── README.md
+└── requirements.txt
+
+
+## Installation
+### Prerequisites
+- Python 3.x
+
+
